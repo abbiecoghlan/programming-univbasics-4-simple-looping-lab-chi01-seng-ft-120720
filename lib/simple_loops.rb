@@ -22,3 +22,6 @@ def output_array(array)
     puts array[count]
   end
 end
+
+def return_string_array(array)
+  
